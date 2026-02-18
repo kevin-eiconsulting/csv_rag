@@ -22,5 +22,13 @@ pip install -r requirements.txt
 pip install pandas sentence-transformers qdrant-client tqdm
 
 ```
-
+6. Download and unzip file named ""
+```
+webpage: https://github.com/qdrant/qdrant/releases
+file name: qdrant-x86_64-pc-windows-msvc.zip
+```
+7. go to Qdrant directory and run command in directory terminal
+```
+qdrant.exe
+```
 - Do not push to the main branch directly
