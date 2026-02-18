@@ -1,0 +1,16 @@
+id,title,text
+1,What is Artificial Intelligence?,Artificial Intelligence (AI) is a field of computer science focused on creating systems capable of performing tasks that typically require human intelligence such as reasoning, learning, and problem-solving.
+2,What is Machine Learning?,Machine Learning is a subset of AI that allows systems to automatically learn and improve from experience without being explicitly programmed.
+3,What is Deep Learning?,Deep Learning is a subset of machine learning that uses neural networks with many layers to model complex patterns in data.
+4,What is Natural Language Processing?,Natural Language Processing (NLP) enables computers to understand, interpret, and generate human language.
+5,What is a Neural Network?,A neural network is a computational model inspired by the human brain that consists of layers of interconnected nodes called neurons.
+6,What is Supervised Learning?,Supervised learning is a type of machine learning where the model is trained using labeled data.
+7,What is Unsupervised Learning?,Unsupervised learning is a type of machine learning that finds patterns in unlabeled data.
+8,What is Reinforcement Learning?,Reinforcement learning is a training method where an agent learns by interacting with an environment and receiving rewards or penalties.
+9,What are Embeddings?,Embeddings are dense vector representations of data such as text that capture semantic meaning.
+10,What is a Vector Database?,A vector database is a database optimized for storing and querying high-dimensional vectors for similarity search.
+11,What is Cosine Similarity?,Cosine similarity measures how similar two vectors are by calculating the cosine of the angle between them.
+12,What is Transfer Learning?,Transfer learning is a technique where a pre-trained model is adapted for a new but related task.
+13,What is Overfitting?,Overfitting occurs when a model learns training data too well, including noise, and performs poorly on new data.
+14,What is Underfitting?,Underfitting happens when a model is too simple to capture underlying patterns in the data.
+15,What is Large Language Model?,A large language model is a deep learning model trained on massive amounts of text data to generate human-like text.
